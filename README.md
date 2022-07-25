@@ -3,7 +3,8 @@
 # About:
 
 -   Job listing app;
--   project is made using Laravel and Tailwind;
+-   project was made using Laravel and Tailwind;
+-   project was made watching "Traversy Media" laravel crash course youtube video.
 
 # Project tasks:
 
