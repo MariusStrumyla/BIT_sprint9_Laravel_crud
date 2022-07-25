@@ -8,7 +8,7 @@
 
 # Project tasks:
 
--   working Laravel MVC project;
+-   Working Laravel MVC project;
 -   clean code;
 -   user authentication;
 -   Read (ability to view listings);
@@ -19,7 +19,7 @@
 
 # Installation / launch process:
 
--   download and install latest `MySQL` version;
+-   Download and install latest `MySQL` version;
 -   download and install latest `XAMPP` version. Run it and start Apache and MySQL server;
 -   clone this repository `https://github.com/MariusStrumyla/BIT_sprint9_Laravel_crud.git` into `htdocs` directory (xampp\htdocs);
 -   open MySQL workbench and create a server with `MyMySQL` as server name;
@@ -40,5 +40,5 @@
 
 # Author
 
--   This project was created by me - Marius Strumyla.
--   Find me on [LinkedIn](https://www.linkedin.com/in/marius-strumyla-88b107217/).
+-   This project was created by me - Marius Strumyla while watching "Traversy Media" laravel crash course youtube video;
+-   find me on [LinkedIn](https://www.linkedin.com/in/marius-strumyla-88b107217/).
