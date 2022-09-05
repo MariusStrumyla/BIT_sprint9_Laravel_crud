@@ -15,6 +15,14 @@ class ListingController extends Controller
         ]);
     }
 
+    
+
+//     public function show($id)
+// {
+//     $product = \App\Models\Listing::findOrFail($id);
+//     return view('listing', compact('listing'));
+// }
+
     //Show single listing
     public function show(Listing $listing) {
         return view('listings.show', [
